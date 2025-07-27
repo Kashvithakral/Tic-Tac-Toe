@@ -8,4 +8,4 @@ A simple 2-player Tic Tac Toe game built using HTML, CSS, and JavaScript.
 - Responsive layout
 
 ## 🔗 Live Demo
-[Click here to play](https://github.com/Kashvithakral/Tic-Tac-Toe.git)
+[Click here to play](https://kashvithakral.github.io/Tic-Tac-Toe/)
